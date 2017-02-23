@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />     
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+    <game Name=""         GameVolume=""   Command=""  VideoVolume="1.0"  Preview="" />
+	
+	<!-- The below entires are promo videos -->
+    <game Name=""  GameVolume=""  Command=""       VideoVolume="1.0"  Preview="" />
+    <game Name=""  GameVolume=""  Command=""       VideoVolume="1.0"  Preview="" />
+    <game Name=""  GameVolume=""  Command=""       VideoVolume="1.0"  Preview="" />
+    <game Name=""  GameVolume=""  Command=""       VideoVolume="1.0"  Preview="" />
+    <game Name=""  GameVolume=""  Command=""       VideoVolume="1.0"  Preview="" />
+    <game Name=""  GameVolume=""  Command=""       VideoVolume="1.0"  Preview="" />
+</games>                                        
+                                                

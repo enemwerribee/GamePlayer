@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FirstRun>false</FirstRun>
+  <SoftwareRendering>false</SoftwareRendering>
+  <SystemVolume>100</SystemVolume>
+  <RomPath>C:\\MAME\\roms\\</RomPath>
+  <MamePath>C:\\MAME\\MameUI32_0.179\\</MamePath>
+</Settings>
